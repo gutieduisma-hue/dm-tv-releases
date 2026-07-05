@@ -1,0 +1,10 @@
+{
+  "version": 4,
+  "updated_at": "2026-07-05",
+  "animeflv_base_url": "https://vww.animeflv.one",
+  "pelisflix_base_url": "https://pelisflix1.cc",
+  "scrapers": [],
+  "latest_version_code": 2,
+  "latest_version_name": "0.2.0",
+  "update_url": "https://github.com/gutieduisma-hue/dm-tv-releases/releases/download/v0.2.0/dm-tv-v0.2.0.apk"
+}
