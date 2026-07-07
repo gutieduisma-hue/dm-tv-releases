@@ -1,10 +1,12 @@
 {
-  "version": 16,
+  "version": 17,
   "updated_at": "2026-07-07",
   "animeflv_base_url": "https://vww.animeflv.one",
   "pelisflix_base_url": "https://pelisflix1.cc",
+  "doramaslat_base_url": "https://doramaslat.com",
   "scrapers": [],
-  "latest_version_code": 13,
-  "latest_version_name": "0.3.10",
-  "update_url": "https://github.com/gutieduisma-hue/dm-tv-releases/releases/download/v0.3.10/dm-tv-v0.3.10.apk"
+  "latest_version_code": 14,
+  "latest_version_name": "0.4.0",
+  "update_url": "https://github.com/gutieduisma-hue/dm-tv-releases/releases/download/v0.4.0/dm-tv-v0.4.0.apk",
+  "min_version_code": 14
 }
