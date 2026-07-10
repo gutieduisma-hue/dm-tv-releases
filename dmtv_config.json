@@ -1,12 +1,21 @@
 {
-  "version": 18,
-  "updated_at": "2026-07-08",
+  "version": 19,
+  "updated_at": "2026-07-10",
   "animeflv_base_url": "https://vww.animeflv.one",
   "pelisflix_base_url": "https://pelisflix1.cc",
   "doramaslat_base_url": "https://doramaslat.com",
   "scrapers": [],
-  "latest_version_code": 15,
-  "latest_version_name": "0.5.0",
-  "update_url": "https://github.com/gutieduisma-hue/dm-tv-releases/releases/download/v0.5.0/dm-tv-v0.5.0.apk",
-  "min_version_code": 15
+  "latest_version_code": 16,
+  "latest_version_name": "0.6.0",
+  "update_url": "https://github.com/gutieduisma-hue/dm-tv-releases/releases/download/v0.6.0/dm-tv-v0.6.0.apk",
+  "min_version_code": 16,
+  "release_notes": [
+    "Descargá películas, series y doramas para verlos sin internet",
+    "Descargas rápidas, con el progreso a la vista",
+    "Botón de descarga en cada película y capítulo",
+    "Nueva sección Descargas en la pantalla principal",
+    "Mejoras de rendimiento y estabilidad"
+  ],
+  "beacon_url": "https://dwkzjtnjlfbzhobdlvnx.supabase.co/rest/v1/app_pings",
+  "beacon_key": "sb_publishable_9OYH2cvcge1Zg_lI8rkk6A_H0HQvm8G"
 }
